@@ -4,6 +4,12 @@
 # Log file
 *.log
 
+# data base
+*.db
+
+#Folder
+/bin
+
 # BlueJ files
 *.ctxt
 
